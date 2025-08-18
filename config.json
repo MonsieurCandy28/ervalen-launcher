@@ -1,9 +1,0 @@
-﻿{
-  "maxPlayers": 45,
-  "serverIp": "127.0.0.1",
-  "serverPort": 30120,
-  "discordInvite": "discord.gg/ervalenrp",
-  "fivemJoin": "fivem://connect/127.0.0.1:30120",
-  "githubRepo": "MonsieurCandy28/ervalen-launcher",
-  "discordAppId": "1370883033854644275"
-}
